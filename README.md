@@ -1,5 +1,8 @@
 # VirusTotal Android
 
+EDIT: This project has been deemed finished and wont receive anymore updates unless wanted by me.
+Last Update: 2025.06.27
+
 ![Downloads](https://img.shields.io/github/downloads/SSMG4/VirusTotal-Android/total)
 
 A [VirusTotal](https://www.virustotal.com) port to Android made with Website2APK
