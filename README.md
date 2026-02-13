@@ -1,6 +1,7 @@
 # VirusTotal Android
 
 EDIT: This project has been deemed finished and wont receive anymore updates unless wanted by me.
+
 EDIT2: Since Website2APK flagged the version of the tool used to make this project as cracked, i've decided to revive this project via React Native.
 
 Last Update: 2026.02.13
